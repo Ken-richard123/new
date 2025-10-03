@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: kendanel/project:5
+          image: kendanel/project:latest
           imagePullPolicy: Always
